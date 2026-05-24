@@ -40,6 +40,11 @@ A simple Android Unit Converter application built using Kotlin and Jetpack Compo
 - Improve UI design
 - Add Dark Mode
 - Add History Feature
+## Screenshots
+<img width="380" height="794" alt="Screenshot 2026-05-23 155659" src="https://github.com/user-attachments/assets/427e323c-1ed1-4502-9bd6-d6209e7cd49f" />
+<img width="391" height="799" alt="Screenshot 2026-05-23 155739" src="https://github.com/user-attachments/assets/a57e4ebf-6cdf-4d2a-b233-b6eb51b2e8b0" />
+<img width="377" height="802" alt="Screenshot 2026-05-23 155811" src="https://github.com/user-attachments/assets/087baf21-ae06-4ce5-a624-875b9569d5d0" />
+
 
 ## Author
 
